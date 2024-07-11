@@ -1,0 +1,96 @@
+body {
+    background-image: url(../img/educ.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+header.design1{
+    display: flex;
+    width: 80vw;
+    justify-content: center;
+    padding: .7rem 10vw;
+    align-items: center;
+    background-color: black;
+    position: fixed; 
+    top: 0;
+    left: 0;
+
+} 
+
+
+.home nav a{
+    text-decoration: none;
+    color:inherit;
+ }
+
+.home button{
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 15px;
+    margin: 15px;
+    border: 2px black solid;
+    border-radius: 10px;
+    transition: .1s;
+}
+
+.home button:hover{
+    transform: scale(1.2);
+    background-color: black;
+    color: white;
+    border: 2px white solid;;
+ }
+
+section.home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 18vw;
+}
+
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0;
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    margin: 0;
+    padding-top: 10px;;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 360px;
+    
+}
+
+#box2{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#box2 img{
+    width: 300px;
+}
+
+#box2a{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+}
