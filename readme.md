@@ -63,12 +63,19 @@
 Description of the project in details.
 
 - What is the project?
+
 This project is my finals project which is a resume type website that showcases my past projects, history, and information.
+
 - What's the purpose?
+
 This project showcases my ability to design websites and my learnings from my class.
+
 - What are key components?
+
 Some key components I used in this project include my website being a multipage website to showcase my information and skills and also links to my other projects within the website itself. Animations were also added to breathe life into the website. Lastly, hover effects helped  give feedback to the user's actions, and also to uncover an easter egg.
+
 - What technology used and how it is used?
+
 This project uses HTML AND CSS. HTML was used to put together the partt of the website like the headers, buttons, etc. and CSS gave life to the structure by giving it style.
 
 ### Key Components
@@ -87,6 +94,22 @@ This project uses HTML AND CSS. HTML was used to put together the partt of the w
 ### Deployment Link
 https://tiviant01.github.io/WD-Finals/
 
+### Links to other project repositories
+- Resume
+
+https://github.com/Tiviant01/WD-Seatwork-2-TX03
+
+- Header and Footer
+
+https://github.com/Tiviant01/WD-Seatwork-3-TX03
+
+- Feature Display
+
+https://github.com/Tiviant01/WD-Seatwork-4-TX03
+
+- Hero and Card
+
+https://github.com/Tiviant01/WD-Hands-on-2-TX03
 
 ## Rules and Principles
 1. Always use ***WD-*** in the Title of the Project for the Subject
