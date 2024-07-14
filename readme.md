@@ -43,6 +43,9 @@
         <li>
           <a href="#deployment-link">Deployment Link</a>
         </li>
+        <li>
+          <a href="#links-to-other-project-repositories">Links to other project repositories</a>
+        </li>
       </ol>
     </li>
     <li>
