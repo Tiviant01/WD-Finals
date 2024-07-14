@@ -140,9 +140,11 @@ WD-ProjectName
 ```
 Here we have the root folder of the website which houses the landing page's HTML file, assets folder, pages folder, and the read me document.
 
-The HTML file contains the website's structure and content. 
-The assets folder contains the folders named css, js, and img. These store the pages CSS file, JavaScript, and Images used in the website.
-The pages folder contains the other webpages the website as the website is a MultiPage Website. Each folder in the pages folder have their own HTML file, and assets folder.
+1. The HTML file contains the website's structure and content. 
+
+2. The assets folder contains the folders named css, js, and img. These store the pages CSS file, JavaScript, and Images used in the website.
+
+3. The pages folder contains the other webpages the website as the website is a MultiPage Website. Each folder in the pages folder have their own HTML file, and assets folder.
 
 ## Resources
 
