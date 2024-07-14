@@ -49,7 +49,7 @@
       </ol>
     </li>
     <li>
-      <a href="#rules-and-principles">Rules and Principles</a>
+      <a href="#file-structure">File Structure</a>
     </li>
     <li>
       <a href="#resources">Resources</a>
@@ -114,10 +114,7 @@ https://github.com/Tiviant01/WD-Seatwork-4-TX03
 
 https://github.com/Tiviant01/WD-Hands-on-2-TX03
 
-## Rules and Principles
-1. Always use ***WD-*** in the Title of the Project for the Subject
-2. Do not rename any .html files; always use 'index.html' as the filename.
-3. File Structure to follow
+## File Structure
 
 ```
 WD-ProjectName
@@ -141,6 +138,11 @@ WD-ProjectName
 └─ index.html
 └─ readme.md
 ```
+Here we have the root folder of the website which houses the landing page's HTML file, assets folder, pages folder, and the read me document.
+
+The HTML file contains the website's structure and content. 
+The assets folder contains the folders named css, js, and img. These store the pages CSS file, JavaScript, and Images used in the website.
+The pages folder contains the other webpages the website as the website is a MultiPage Website. Each folder in the pages folder have their own HTML file, and assets folder.
 
 ## Resources
 
