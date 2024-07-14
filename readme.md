@@ -46,6 +46,9 @@
         <li>
           <a href="#links-to-other-project-repositories">Links to other project repositories</a>
         </li>
+        <li>
+          <a href="#wakatime">WakaTime</a>
+        </li>
       </ol>
     </li>
     <li>
@@ -113,6 +116,12 @@ https://github.com/Tiviant01/WD-Seatwork-4-TX03
 - Hero and Card
 
 https://github.com/Tiviant01/WD-Hands-on-2-TX03
+
+### WakaTime
+
+- My stats in making this project
+
+https://wakatime.com/projects/WD-Finals
 
 ## File Structure
 
