@@ -123,7 +123,7 @@ https://github.com/Tiviant01/WD-Hands-on-2-TX03
 
 [![wakatime](https://wakatime.com/badge/user/018ee9d2-40e4-4255-a52c-d6fdd8cf019c/project/95888e98-65b8-4c1d-887b-81bec7927497.svg)](https://wakatime.com/badge/user/018ee9d2-40e4-4255-a52c-d6fdd8cf019c/project/95888e98-65b8-4c1d-887b-81bec7927497)
 
-https://wakatime.com/projects/WD-Finals
+https://wakatime.com/@Tiviant01/projects/lspkirieep?start=2024-07-09&end=2024-07-15
 
 ## File Structure
 
